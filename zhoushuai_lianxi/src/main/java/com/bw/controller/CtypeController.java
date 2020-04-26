@@ -25,6 +25,7 @@ public class CtypeController {
 
     @RequestMapping("fuwu")
     public CanpinVo fuwu(int tid){
+        System.out.println("第一次周帅测试");
         System.out.println("1111111");
         CanpinVo list=ss.fuwu(tid);
         return list;

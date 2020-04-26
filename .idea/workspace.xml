@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1741b8ef-596f-4232-bdf9-ace5f7618c52" name="Default Changelist" comment="" />
+    <list default="true" id="1741b8ef-596f-4232-bdf9-ace5f7618c52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/zhoushuai_lianxi/target/" />
@@ -15,7 +17,20 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,6 +39,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,12 +66,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/pojo/Vo/CtypeVo.java" />
-        <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/service/CtypeService.java" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/service/impl/CtypeServiceImpl.java" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/dao/CtypeMapper.java" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/resources/mybatis/CtypeMapper.xml" />
         <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/pojo/Vo/CanpinVo.java" />
+        <option value="$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java" />
       </list>
     </option>
   </component>
@@ -78,54 +96,54 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="482" />
-    <option name="y" value="81" />
+    <option name="x" value="285" />
+    <option name="y" value="89" />
     <option name="width" value="1423" />
     <option name="height" value="885" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -133,8 +151,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -143,8 +161,8 @@
               <item name="bw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
+              <item name="daima2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daima2" type="462c0819:PsiDirectoryNode" />
               <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -153,72 +171,11 @@
               <item name="bw" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
-              <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bw" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
-              <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bw" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
-              <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bw" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
-              <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bw" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
-              <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaozhuzhoushuai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaozhuzhoushuai" type="462c0819:PsiDirectoryNode" />
-              <item name="zhoushuai_lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,21 +272,23 @@
       <workItem from="1587843020794" duration="260000" />
       <workItem from="1587874089394" duration="1256000" />
       <workItem from="1587879495290" duration="291000" />
+      <workItem from="1587892151520" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17050000" />
+    <option name="totallyTimeSpent" value="17084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="482" y="81" width="1423" height="885" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2802641" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28466618" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -347,7 +306,7 @@
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.49333334" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.49465242" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -453,16 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/service/impl/CtypeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -511,6 +460,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhoushuai_lianxi/src/main/java/com/bw/controller/CtypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
